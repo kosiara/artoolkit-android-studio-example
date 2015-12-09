@@ -12,7 +12,8 @@ ARtoolkit SDK source: https://github.com/artoolkit/artoolkit5
 
 #### Sample marker:
 
-[image]
+![Marker1](https://raw.githubusercontent.com/kosiara/artoolkit-android-studio-example/master/sampleMarker/patt2.jpg)
+
 https://www.hitl.washington.edu/artoolkit/documentation/devmulti.htm
 
 #### Sample usage:
