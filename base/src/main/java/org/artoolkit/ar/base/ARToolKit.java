@@ -345,7 +345,8 @@ public class ARToolKit {
 		NativeInterface.arwStopRunning();
 		NativeInterface.arwShutdownAR();
 
-		debugBitmap.recycle();
+		if (debugBitmap != null)
+			debugBitmap.recycle();
 		debugBitmap = null;
 
 		initedNative = false;
