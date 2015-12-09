@@ -1,5 +1,7 @@
 ## ARToolkit example "SimpleAR" project in Android Studio
 
+This example project was ported from an Eclipse project to gradle & Android Studio
+
 #### Versions:
 Android Studio: 1.5.1
 ARToolKit v5.3.1
@@ -69,3 +71,6 @@ public class SimpleRenderer extends ARRenderer {
 #### Videos
 
 [![ARToolkit Android Studio sample](http://img.youtube.com/vi/g2z9acgPVHw/0.jpg)](https://youtu.be/g2z9acgPVHw "ARToolkit Android Studio sample")
+
+
+port author: Bartosz Kosarzycki
