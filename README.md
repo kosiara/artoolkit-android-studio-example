@@ -6,6 +6,8 @@ This example project was ported from an Eclipse project to gradle & Android Stud
 Android Studio: 1.5.1
 ARToolKit v5.3.1
 
+Android 6.x bug: http://artoolkit.org/community/forums/viewtopic.php?f=26&t=4754
+
 
 #### Links:
 ARtoolkit SDK: http://artoolkit.org/download-artoolkit-sdk
