@@ -13,7 +13,17 @@ ARtoolkit SDK source: https://github.com/artoolkit/artoolkit5
 #### Sample marker:
 
 [image]
+https://www.hitl.washington.edu/artoolkit/documentation/devmulti.htm
 
 #### Sample usage:
 
 [usage]
+
+#### Screenshots
+
+![Screenshot1](https://raw.githubusercontent.com/kosiara/artoolkit-android-studio-example/master/screenshots/device-2015-12-09-102231.png)
+![Screenshot2](https://raw.githubusercontent.com/kosiara/artoolkit-android-studio-example/master/screenshots/device-2015-12-09-102300.png)
+
+#### Videos
+
+[![ARToolkit Android Studio sample](http://img.youtube.com/vi/g2z9acgPVHw/0.jpg)](https://youtu.be/g2z9acgPVHw "ARToolkit Android Studio sample")
